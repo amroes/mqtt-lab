@@ -1,7 +1,5 @@
 # MQTT Multi-Agent Systems Lab
 
-This repository collects the MQTT lab deliverables described in `mqtt-lab-report.md` and `consignes.md`.
-
 ## Structure
 - `Part1_Basics/`: MQTT handshake, basic publish/subscribe, and ping-pong exercises. See the directory README for usage.
 - `SensorNetwork/`: Sensor, averaging, interface agents, and a master orchestrator that demonstrates dynamic behavior.
